@@ -1,3 +1,15 @@
 body{
     color: red;
 }
+
+.koala{
+    background: url(./images/Koala.jpg);
+    width: 100px;
+    height: 75px;
+}
+
+.square{
+    width: 100px;
+    height: 100px;
+    transform: translateX(100px);
+}
